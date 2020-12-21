@@ -82,7 +82,6 @@ public class EnchancedTipCalculatorController {
     }
     public void initialize(){
         currency.setRoundingMode(RoundingMode.HALF_UP);
-
         tipPercentageSlider.valueProperty().addListener(new ChangeListener<Number>() {
             @Override
             public void changed(ObservableValue<? extends Number> observableValue, Number oldValue, Number newValue) {
