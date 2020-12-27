@@ -2,6 +2,18 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BodyMassIndexCalculatorApp/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ColorChoserAppModification/src/ColorChoserModification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ContactModification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Contacts/src/Contacts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ContactsModification/src/ContactsModification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FinalProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FinalProjectCalculator/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MusicPlayer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Painter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Practice/MiniBrowserNW/src/MiniBrowser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Schedule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TargetedHeartRate/src" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/TipCalculator" vcs="Git" />
   </component>
 </project>

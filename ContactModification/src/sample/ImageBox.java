@@ -8,13 +8,13 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.TextAlignment;
 
-public class ImageTextCell extends ListCell<Student> {
+public class ImageBox extends ListCell<Student> {
     private VBox vbox = new VBox(8.0); // 8 points of gap between controls
     private ImageView imageView = new ImageView(); // initially empty
     private Label label = new Label();
 
 
-    public ImageTextCell() {
+    public ImageBox() {
         vbox.setAlignment(Pos.CENTER); // center VBox contents horizontally
 
         imageView.setPreserveRatio(true);
